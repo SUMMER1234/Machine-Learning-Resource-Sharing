@@ -19,6 +19,7 @@
 - **Intro to Deep Learning by Google** www.udacity.com/course/deep-learning--ud730
 - **Deep Learning Specialization** www.coursera.org/specializations/deep-learning
 - **Introduction to Deep Learning**  https://www.coursera.org/learn/intro-to-deep-learning
+- **UFLDL Tutorial** http://ufldl.stanford.edu/wiki/index.php/UFLDL_Tutorial
 
 #### Machine Learning
 
@@ -27,3 +28,7 @@
 
 
 - **Cluster Analysis in Data Mining** www.coursera.org/learn/cluster-analysis/home/welcome
+
+#### **Math**
+
+- https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/
