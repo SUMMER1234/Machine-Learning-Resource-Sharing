@@ -1,3 +1,5 @@
+这里主要收集大家正在学或者准备学的一些比较好的网络课程。
+
 #### NLP
 
 - **CS224n Natural Language Processing with Deep Learning**  http://web.stanford.edu/class/cs224n/
