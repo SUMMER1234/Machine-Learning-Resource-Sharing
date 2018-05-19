@@ -16,7 +16,7 @@
 
 - **Intro to Deep Learning by Google** www.udacity.com/course/deep-learning--ud730
 - **Deep Learning Specialization** www.coursera.org/specializations/deep-learning
-- **Introduction to Deep Learning ** https://www.coursera.org/learn/intro-to-deep-learning
+- **Introduction to Deep Learning**  https://www.coursera.org/learn/intro-to-deep-learning
 
 #### Machine Learning
 
@@ -25,4 +25,3 @@
 
 
 - **Cluster Analysis in Data Mining** www.coursera.org/learn/cluster-analysis/home/welcome
-
