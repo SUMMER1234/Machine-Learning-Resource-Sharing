@@ -24,7 +24,9 @@
 #### Machine Learning
 
 - **Machine Learning Foundations: A Case Study Approach** www.coursera.org/learn/ml-foundation
-- **CS229 Machine Learning** https://www.coursera.org/learn/machine-learning
+- **CS229 Machine Learning**
+  - 课程链接  https://www.coursera.org/learn/machine-learning
+  - 课程笔记 https://github.com/Kivy-CN/Stanford-CS-229-CN
 
 
 - **Cluster Analysis in Data Mining** www.coursera.org/learn/cluster-analysis/home/welcome
