@@ -20,6 +20,7 @@
 - **Deep Learning Specialization** www.coursera.org/specializations/deep-learning
 - **Introduction to Deep Learning**  https://www.coursera.org/learn/intro-to-deep-learning
 - **UFLDL Tutorial** http://ufldl.stanford.edu/wiki/index.php/UFLDL_Tutorial
+- **《动手学深度学习》第一季课程汇总** http://discuss.gluon.ai/t/topic/753
 
 #### Machine Learning
 
